@@ -58,7 +58,7 @@ The service should connect to the both the suppliers using HTTP.
 | ------ | ------ |
 | airline | Name of the airline |
 | price | Total price |
-| cabinclass | E for Economy and B for Business |
+| cabinClass | E for Economy and B for Business |
 | departureAirportCode | Eg: LHR |
 | destinationAirportCode | Eg: LHR |
 | departureDate | ISO_LOCAL_DATE_TIME format |
